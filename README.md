@@ -4,4 +4,6 @@
 
 Para roda esse projeto na máquina, digite:
 
-'npm install react'
+'''
+npm install react
+'''
